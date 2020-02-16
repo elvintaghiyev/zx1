@@ -1,0 +1,16 @@
+  body {
+    background-color:white;
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  #border {
+    border: 100px;
+    color: white;
+    background-color:#35444f;
+    margin: auto;
+    width: 90%;
+  }
+  #logo {
+    padding: 5% 0px 0px 10%;
+    /* padding: 51px 0px 0px 100px; */
+  }
